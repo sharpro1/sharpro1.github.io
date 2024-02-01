@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1aff4d;
+  background: #3d8ce2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2441,7 +2441,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("images/background.png");
+  background: url("https://www.freeimg.cn/i/2024/02/01/65bb4b9aaea9a.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
